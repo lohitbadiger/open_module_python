@@ -1,0 +1,21 @@
+Total word count: 130
+total unique words 97
+ 1: the - 7
+
+ 2: lohit - 6
+
+ 3: of - 6
+
+ 4: lorem - 5
+
+ 5: ipsum - 4
+
+ 6: to - 4
+
+ 7: hello - 3
+
+ 8: a - 3
+
+ 9: there - 2
+
+ 10: are - 2
